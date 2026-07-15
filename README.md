@@ -24,6 +24,7 @@ all origin-balance-derived features, the model produces an honest, defensible re
 |----------------------|--------------------|-----------------|--------|
 | Logistic Regression  | 0.04               | 0.70            | 0.32   |
 | Random Forest        | 0.82               | 0.44            | 0.48   |
+
 Full investigation and reasoning in [`notebooks/01_exploration.ipynb`](notebooks/01_exploration.ipynb).
 
 ## Project structure
